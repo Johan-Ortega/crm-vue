@@ -1,0 +1,14 @@
+{
+  "clientes": [
+    {
+      "nombre": "Johan",
+      "apellido": "Ortega",
+      "email": "masterchief_2001118@hotmail.com",
+      "telefono": "2712292828",
+      "empresa": "Universidad Veracruzana",
+      "puesto": "Docente",
+      "estado": true,
+      "id": 1
+    }
+  ]
+}
