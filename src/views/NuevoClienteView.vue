@@ -7,8 +7,6 @@
 
     const router = useRouter()
 
-    console.log(router) 
-
     defineProps({
         titulo: {
             type: String
